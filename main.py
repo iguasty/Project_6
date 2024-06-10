@@ -66,6 +66,7 @@ def print_array():
     print("Here is the sorted array:")
     print(printable_array, sep=", ")
     
+    
 #main loop
 root = tk.Tk()
 root.title("Sort Values")
